@@ -1,0 +1,3 @@
+For data transfer, we need 2 HC05 module.
+One will transmit data, we can say it orders what to do, this is called as "Master Module".
+Other one will receive data, we can say follow the order, this one is called as "Slave Module".
